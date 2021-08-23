@@ -1,16 +1,30 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
-  workflow_dispatch:
+  # Schedule updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
   push: {branches: ["master", "main"]}
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: achimonchi/metrics@main
+      - uses: achimonchi/metrics@master
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+#           plugin_pagespeed: yes
+#           plugin_pagespeed_url: https://ahmadreza.site
+#           plugin_isocalendar: yes
+#           plugin_languages: yes
+#           plugin_languages_ignored: "" # List of comma separated languages to ignore
+#           plugin_languages_skipped: "" # List of comma separated repositories to skip:  
+#           plugin_lines: yes
+#           plugin_habits: yes
+#           plugin_habits_from: 200
+#           plugin_habits_days: 14
+#           plugin_stars: yes
+#           plugin_stars_limit: 4  
