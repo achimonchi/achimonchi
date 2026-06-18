@@ -32,6 +32,13 @@
 
 ###
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=achimonchi.achimonchi&"  />
+</div>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -86,13 +93,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
+### 
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -105,33 +107,4 @@
 
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=achimonchi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=achimonchi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=achimonchi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=ArdyJunata&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=achimonchi.achimonchi&"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
